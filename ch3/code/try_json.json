@@ -1,0 +1,639 @@
+{
+  "count": 18,
+  "start": 0,
+  "subject_collection_items": [
+    {
+      "info": "吴京/吴京/弗兰克·格里罗/吴刚/动作/2017-07-27(中国大陆)",
+      "original_price": null,
+      "release_date": "07.27",
+      "rating": {
+        "count": 310835,
+        "max": 10,
+        "value": 7.5
+      },
+      "description": "",
+      "title": "战狼2",
+      "url": "https://m.douban.com/movie/subject/26363254/",
+      "price": null,
+      "cover": {
+        "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2485983612.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg",
+        "width": 750,
+        "shape": "rectangle",
+        "height": 1134
+      },
+      "uri": "douban://douban.com/movie/26363254",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "吴京"
+      ],
+      "actors": [
+        "吴京",
+        "弗兰克·格里罗",
+        "吴刚"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "type": "movie",
+      "id": "26363254"
+    },
+    {
+      "info": "谢东燊/廖凡/李易峰/万茜/动作/犯罪/悬疑/2017-08-11(中国大陆)",
+      "original_price": null,
+      "release_date": "08.11",
+      "rating": {
+        "count": 38192,
+        "max": 10,
+        "value": 5.6
+      },
+      "description": "",
+      "title": "心理罪",
+      "url": "https://m.douban.com/movie/subject/26698000/",
+      "price": null,
+      "cover": {
+        "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2492869971.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg",
+        "width": 5953,
+        "shape": "rectangle",
+        "height": 8315
+      },
+      "uri": "douban://douban.com/movie/26698000",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "谢东燊"
+      ],
+      "actors": [
+        "廖凡",
+        "李易峰",
+        "万茜"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "type": "movie",
+      "id": "26698000"
+    },
+    {
+      "info": "冯德伦/刘德华/舒淇/张静初/动作/冒险/2017-08-11(中国大陆)",
+      "original_price": null,
+      "release_date": "08.11",
+      "rating": {
+        "count": 13968,
+        "max": 10,
+        "value": 5.8
+      },
+      "description": "",
+      "title": "侠盗联盟",
+      "url": "https://m.douban.com/movie/subject/25858758/",
+      "price": null,
+      "cover": {
+        "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2494018217.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg",
+        "width": 1000,
+        "shape": "rectangle",
+        "height": 1418
+      },
+      "uri": "douban://douban.com/movie/25858758",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "冯德伦"
+      ],
+      "actors": [
+        "刘德华",
+        "舒淇",
+        "张静初"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "type": "movie",
+      "id": "25858758"
+    },
+    {
+      "info": "叶伟信/古天乐/托尼·贾/吴樾/剧情/动作/2017-08-17(中国大陆)",
+      "original_price": null,
+      "release_date": "08.17",
+      "rating": null,
+      "description": "",
+      "title": "杀破狼·贪狼",
+      "url": "https://m.douban.com/movie/subject/26826398/",
+      "price": null,
+      "cover": {
+        "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2494948513.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg",
+        "width": 682,
+        "shape": "rectangle",
+        "height": 960
+      },
+      "uri": "douban://douban.com/movie/26826398",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "叶伟信"
+      ],
+      "actors": [
+        "古天乐",
+        "托尼·贾",
+        "吴樾"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "type": "movie",
+      "id": "26826398"
+    },
+    {
+      "info": "杨磊/王大陆/张天爱/任达华/喜剧/动作/爱情/2017-08-11(中国大陆)",
+      "original_price": null,
+      "release_date": "08.11",
+      "rating": {
+        "count": 7327,
+        "max": 10,
+        "value": 4.9
+      },
+      "description": "",
+      "title": "鲛珠传",
+      "url": "https://m.douban.com/movie/subject/25857966/",
+      "price": null,
+      "cover": {
+        "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2493908018.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg",
+        "width": 1145,
+        "shape": "rectangle",
+        "height": 1600
+      },
+      "uri": "douban://douban.com/movie/25857966",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "杨磊"
+      ],
+      "actors": [
+        "王大陆",
+        "张天爱",
+        "任达华"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "type": "movie",
+      "id": "25857966"
+    },
+    {
+      "info": "连奕琦/郭富城/王千源/刘涛/动作/犯罪/2017-08-17(中国大陆)",
+      "original_price": null,
+      "release_date": "08.17",
+      "rating": null,
+      "description": "",
+      "title": "破·局",
+      "url": "https://m.douban.com/movie/subject/26760160/",
+      "price": null,
+      "cover": {
+        "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2494818916.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg",
+        "width": 1071,
+        "shape": "rectangle",
+        "height": 1500
+      },
+      "uri": "douban://douban.com/movie/26760160",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "连奕琦"
+      ],
+      "actors": [
+        "郭富城",
+        "王千源",
+        "刘涛"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "type": "movie",
+      "id": "26760160"
+    },
+    {
+      "info": "理查德·戴尔/成龙/罗伯特·雷德福/纪录片/2017-08-11(中国大陆)",
+      "original_price": null,
+      "release_date": "08.11",
+      "rating": {
+        "count": 3382,
+        "max": 10,
+        "value": 8.3
+      },
+      "description": "",
+      "title": "地球：神奇的一天",
+      "url": "https://m.douban.com/movie/subject/26647876/",
+      "price": null,
+      "cover": {
+        "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2493261459.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg",
+        "width": 4488,
+        "shape": "rectangle",
+        "height": 6260
+      },
+      "uri": "douban://douban.com/movie/26647876",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "理查德·戴尔"
+      ],
+      "actors": [
+        "成龙",
+        "罗伯特·雷德福"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "type": "movie",
+      "id": "26647876"
+    },
+    {
+      "info": "郭柯/纪录片/2017-08-14(中国大陆)",
+      "original_price": null,
+      "release_date": "08.14",
+      "rating": {
+        "count": 6699,
+        "max": 10,
+        "value": 8.9
+      },
+      "description": "",
+      "title": "二十二",
+      "url": "https://m.douban.com/movie/subject/26430107/",
+      "price": null,
+      "cover": {
+        "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2457609817.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg",
+        "width": 959,
+        "shape": "rectangle",
+        "height": 1343
+      },
+      "uri": "douban://douban.com/movie/26430107",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "郭柯"
+      ],
+      "actors": [],
+      "date": null,
+      "reviewer_name": "",
+      "type": "movie",
+      "id": "26430107"
+    },
+    {
+      "info": "刘伟强/刘烨/朱亚文/黄志忠/剧情/历史/2017-07-27(中国大陆)",
+      "original_price": null,
+      "release_date": "07.27",
+      "rating": null,
+      "description": "",
+      "title": "建军大业",
+      "url": "https://m.douban.com/movie/subject/26692823/",
+      "price": null,
+      "cover": {
+        "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2493892158.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg",
+        "width": 1069,
+        "shape": "rectangle",
+        "height": 1500
+      },
+      "uri": "douban://douban.com/movie/26692823",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "刘伟强"
+      ],
+      "actors": [
+        "刘烨",
+        "朱亚文",
+        "黄志忠"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "type": "movie",
+      "id": "26692823"
+    },
+    {
+      "info": "赵小丁/刘亦菲/杨洋/罗晋/爱情/奇幻/2017-08-03(中国大陆)",
+      "original_price": null,
+      "release_date": "08.03",
+      "rating": {
+        "count": 97870,
+        "max": 10,
+        "value": 4.2
+      },
+      "description": "",
+      "title": "三生三世十里桃花",
+      "url": "https://m.douban.com/movie/subject/25823277/",
+      "price": null,
+      "cover": {
+        "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2494279388.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg",
+        "width": 1372,
+        "shape": "rectangle",
+        "height": 1920
+      },
+      "uri": "douban://douban.com/movie/25823277",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "赵小丁"
+      ],
+      "actors": [
+        "刘亦菲",
+        "杨洋",
+        "罗晋"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "type": "movie",
+      "id": "25823277"
+    },
+    {
+      "info": "凯尔·巴尔达/史蒂夫·卡瑞尔/克里斯汀·韦格/崔·帕克/喜剧/动画/冒险/2017-07-07(中国大陆)",
+      "original_price": null,
+      "release_date": "07.07",
+      "rating": {
+        "count": 83947,
+        "max": 10,
+        "value": 7
+      },
+      "description": "",
+      "title": "神偷奶爸3",
+      "url": "https://m.douban.com/movie/subject/25812712/",
+      "price": null,
+      "cover": {
+        "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2469070974.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg",
+        "width": 5512,
+        "shape": "rectangle",
+        "height": 7874
+      },
+      "uri": "douban://douban.com/movie/25812712",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "凯尔·巴尔达"
+      ],
+      "actors": [
+        "史蒂夫·卡瑞尔",
+        "克里斯汀·韦格",
+        "崔·帕克"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "type": "movie",
+      "id": "25812712"
+    },
+    {
+      "info": "卢恒宇/山新/郝祥海/李姝洁/喜剧/动画/奇幻/2017-08-18(中国大陆)",
+      "original_price": null,
+      "release_date": "08.18",
+      "rating": null,
+      "description": "",
+      "title": "十万个冷笑话2",
+      "url": "https://m.douban.com/movie/subject/26759539/",
+      "price": null,
+      "cover": {
+        "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2492917402.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg",
+        "width": 2000,
+        "shape": "rectangle",
+        "height": 3125
+      },
+      "uri": "douban://douban.com/movie/26759539",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "卢恒宇"
+      ],
+      "actors": [
+        "山新",
+        "郝祥海",
+        "李姝洁"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "type": "movie",
+      "id": "26759539"
+    },
+    {
+      "info": "速达/潘延/范楚绒/胡谦/喜剧/动画/冒险/2017-07-28(中国大陆)",
+      "original_price": null,
+      "release_date": "07.28",
+      "rating": {
+        "count": 982,
+        "max": 10,
+        "value": 5.6
+      },
+      "description": "",
+      "title": "大耳朵图图之美食狂想曲",
+      "url": "https://m.douban.com/movie/subject/22232939/",
+      "price": null,
+      "cover": {
+        "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2490966346.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg",
+        "width": 715,
+        "shape": "rectangle",
+        "height": 1000
+      },
+      "uri": "douban://douban.com/movie/22232939",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "速达"
+      ],
+      "actors": [
+        "潘延",
+        "范楚绒",
+        "胡谦"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "type": "movie",
+      "id": "22232939"
+    },
+    {
+      "info": "杨子/斯蒂芬·马布里/吴尊/何冰/剧情/运动/2017-08-04(中国大陆)",
+      "original_price": null,
+      "release_date": "08.04",
+      "rating": {
+        "count": 1948,
+        "max": 10,
+        "value": 6.6
+      },
+      "description": "",
+      "title": "我是马布里",
+      "url": "https://m.douban.com/movie/subject/25903033/",
+      "price": null,
+      "cover": {
+        "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2494729086.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg",
+        "width": 3720,
+        "shape": "rectangle",
+        "height": 5368
+      },
+      "uri": "douban://douban.com/movie/25903033",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "杨子"
+      ],
+      "actors": [
+        "斯蒂芬·马布里",
+        "吴尊",
+        "何冰"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "type": "movie",
+      "id": "25903033"
+    },
+    {
+      "info": "王章俊/罗玉婷/翟巍/王晓彤/儿童/喜剧/动画/2017-08-18(中国大陆)",
+      "original_price": null,
+      "release_date": "08.18",
+      "rating": null,
+      "description": "",
+      "title": "赛尔号大电影6：圣者无敌",
+      "url": "https://m.douban.com/movie/subject/26969037/",
+      "price": null,
+      "cover": {
+        "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2475952676.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg",
+        "width": 1280,
+        "shape": "rectangle",
+        "height": 1792
+      },
+      "uri": "douban://douban.com/movie/26969037",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "王章俊"
+      ],
+      "actors": [
+        "罗玉婷",
+        "翟巍",
+        "王晓彤"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "type": "movie",
+      "id": "26969037"
+    },
+    {
+      "info": "王冉/徐璐/彭昱畅/刘泳希/剧情/喜剧/音乐/2017-07-20(中国大陆)",
+      "original_price": null,
+      "release_date": "07.20",
+      "rating": {
+        "count": 28104,
+        "max": 10,
+        "value": 7.5
+      },
+      "description": "",
+      "title": "闪光少女",
+      "url": "https://m.douban.com/movie/subject/26790961/",
+      "price": null,
+      "cover": {
+        "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2494275431.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg",
+        "width": 2081,
+        "shape": "rectangle",
+        "height": 2953
+      },
+      "uri": "douban://douban.com/movie/26790961",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "王冉"
+      ],
+      "actors": [
+        "徐璐",
+        "彭昱畅",
+        "刘泳希"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "type": "movie",
+      "id": "26790961"
+    },
+    {
+      "info": "申宇/严丽祯/李晔/王衡/动画/奇幻/冒险/2017-08-04(中国大陆)",
+      "original_price": null,
+      "release_date": "08.04",
+      "rating": null,
+      "description": "",
+      "title": "玩偶奇兵",
+      "url": "https://m.douban.com/movie/subject/27026033/",
+      "price": null,
+      "cover": {
+        "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2492765331.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg",
+        "width": 1422,
+        "shape": "rectangle",
+        "height": 2100
+      },
+      "uri": "douban://douban.com/movie/27026033",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "申宇"
+      ],
+      "actors": [
+        "严丽祯",
+        "李晔",
+        "王衡"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "type": "movie",
+      "id": "27026033"
+    },
+    {
+      "info": "张杨/金巴/曲尼次仁/夏诺·扎西敦珠/剧情/2017-08-18(中国大陆)",
+      "original_price": null,
+      "release_date": "08.18",
+      "rating": {
+        "count": 1078,
+        "max": 10,
+        "value": 7.1
+      },
+      "description": "",
+      "title": "皮绳上的魂",
+      "url": "https://m.douban.com/movie/subject/26177735/",
+      "price": null,
+      "cover": {
+        "url": "https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2494811175.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg",
+        "width": 800,
+        "shape": "rectangle",
+        "height": 1119
+      },
+      "uri": "douban://douban.com/movie/26177735",
+      "actions": [],
+      "label": null,
+      "subtype": "",
+      "directors": [
+        "张杨"
+      ],
+      "actors": [
+        "金巴",
+        "曲尼次仁",
+        "夏诺·扎西敦珠"
+      ],
+      "date": null,
+      "reviewer_name": "",
+      "type": "movie",
+      "id": "26177735"
+    }
+  ],
+  "total": 43,
+  "subject_collection": {
+    "subject_count": 43,
+    "description": "",
+    "url": "https://m.douban.com/app_topic/movie_showing",
+    "uri": "douban://douban.com/subject_collection/movie_showing",
+    "cover_url": "",
+    "name": "影院热映",
+    "id": "movie_showing",
+    "display": {
+      "layout": "grid"
+    },
+    "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject_collection/movie_showing/"
+  }
+}
